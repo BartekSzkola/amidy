@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- creation of animation list-->
+    <item
+        android:drawable="@drawable/troj1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/troj8"
+        android:duration="100" />
+
+</animation-list>
